@@ -15,7 +15,7 @@ npm install fast_generate_childstore
 命令
 
 ~~~js
-acwink createStore <types-path> <type-name> <save-path> <save-name>
+fastGCS createStore <types-path> <type-name> <save-path> <save-name>
 ~~~
 
 
