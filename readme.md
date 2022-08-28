@@ -36,7 +36,7 @@ interface UserStore {
 执行如下命令过后，我们会在 ./ 目录下 生成 UserStore.ts 文件。
 
 ~~~js
-acwink createStore ./types.ts UserStore ./ UserStore
+fastGCS createStore ./types.ts UserStore ./ UserStore
 ~~~
 
 
